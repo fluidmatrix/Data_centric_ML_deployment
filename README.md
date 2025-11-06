@@ -5,6 +5,6 @@ Then we split the data with 70% to train the model, and the rest into the dev se
 
 Lastly, we perform some metrics to deduce the results and showcase them using matplotlib. 
 
-![Confusion Matrix of different animals](<Screenshot 2025-11-06 174636-1.png>)
+![Confusion Matrix of different animals](<Confusion Matrix.png>)
 
-![Matlib Plot of Training Loss](<Screenshot 2025-11-06 174645-1.png>)
+![Matlib Plot of Training Loss](<Plot.png>)
